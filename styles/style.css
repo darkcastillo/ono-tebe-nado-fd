@@ -40,9 +40,9 @@
 
 .header_logo {
     display: block;
+    place-content: center;
     width: 148px;
     height: 105px; 
-    place-content: center;
 }
 
 .header_address {
